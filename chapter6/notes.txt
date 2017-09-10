@@ -1,0 +1,4 @@
+enums are super cool and so is match.
+
+I don't understand wtf is going on with if let....
+Too complicated, just to avoid some boilerplate code.

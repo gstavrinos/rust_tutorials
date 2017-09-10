@@ -1,1 +1,1 @@
-https://doc.rust-lang.org/book/second-edition/ch06-00-enums.html
+https://doc.rust-lang.org/book/second-edition/ch07-00-modules.html
