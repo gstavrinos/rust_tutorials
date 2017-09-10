@@ -1,1 +1,1 @@
-https://doc.rust-lang.org/book/second-edition/ch07-00-modules.html
+https://doc.rust-lang.org/book/second-edition/ch08-00-common-collections.html

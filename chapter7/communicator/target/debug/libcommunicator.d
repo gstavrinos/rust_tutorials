@@ -1,0 +1,1 @@
+/home/gstavrinos/rust_tutorials/chapter7/communicator/target/debug/libcommunicator.rlib: /home/gstavrinos/rust_tutorials/chapter7/communicator/src/lib.rs /home/gstavrinos/rust_tutorials/chapter7/communicator/src/network/server.rs /home/gstavrinos/rust_tutorials/chapter7/communicator/src/network/mod.rs /home/gstavrinos/rust_tutorials/chapter7/communicator/src/client.rs

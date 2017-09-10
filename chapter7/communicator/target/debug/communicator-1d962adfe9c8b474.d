@@ -1,0 +1,1 @@
+/home/gstavrinos/rust_tutorials/chapter7/communicator/target/debug/communicator-1d962adfe9c8b474: /home/gstavrinos/rust_tutorials/chapter7/communicator/src/client.rs /home/gstavrinos/rust_tutorials/chapter7/communicator/src/network/mod.rs /home/gstavrinos/rust_tutorials/chapter7/communicator/src/network/server.rs /home/gstavrinos/rust_tutorials/chapter7/communicator/src/lib.rs
