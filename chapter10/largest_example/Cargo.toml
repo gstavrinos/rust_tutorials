@@ -1,0 +1,6 @@
+[package]
+name = "largest_example"
+version = "0.1.0"
+authors = ["George Stavrinos <gstavrinos@iit.demokritos.gr>"]
+
+[dependencies]
