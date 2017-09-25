@@ -1,2 +1,2 @@
 //https://doc.rust-lang.org/book/second-edition/ch10-00-generics.html
-offline, finished generics of chapter 10, and now going for traits
+offline, finished traits and lifetimes of chapter 10, now going for writing automated tests!
